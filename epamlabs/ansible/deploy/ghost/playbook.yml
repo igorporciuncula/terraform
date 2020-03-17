@@ -1,0 +1,6 @@
+- hosts: clarolabs-gh
+  become: yes
+
+  roles:
+    - mysql
+    - ghost

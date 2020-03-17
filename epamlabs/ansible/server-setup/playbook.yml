@@ -1,0 +1,7 @@
+- hosts: clarolabs
+  # remote_user: user
+  sudo: yes
+
+  roles:
+    - common 
+    - server
