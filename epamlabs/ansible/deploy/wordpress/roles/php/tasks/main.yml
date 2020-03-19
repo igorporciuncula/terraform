@@ -1,7 +1,0 @@
----
-- name: Install php extensions
-  yum: name={{ item }} state=present
-  sudo: yes
-  with_items:
-    - php7-gd 
-    - libssh2-php

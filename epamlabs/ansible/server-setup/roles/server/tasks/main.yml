@@ -1,6 +1,0 @@
----
-- name: Install required software
-  shell: sudo yum install nginx mariadb-server php php-mcrypt python36-mysql certbot python2-certbot-nginx nodejs -y
-
-- name: Install ghost-cli
-  shell: npm i -g ghost-cli

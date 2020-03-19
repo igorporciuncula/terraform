@@ -1,10 +1,10 @@
-# Setup 
+# Setup
 
-Efetuar o SETUP com as seguintes ações:
 
-# Arquivo reponsavel por configurar o terraform em seu computador local.
+# Configure terraform on local computer
 - shell># chmod +x terraform-setup.sh; bash terraform-setup.sh
 - shell># terraform --version
+
 
 # Terraform Backend
 # s3 bucket

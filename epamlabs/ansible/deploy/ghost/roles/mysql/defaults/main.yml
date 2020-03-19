@@ -1,7 +1,0 @@
----
-gh_mysql_db: ghost
-gh_mysql_user: ghost
-gh_mysql_password: Y2xhcm9sYWJzCg==
-
-# Create Passsord
-#Shell># echo "clarolabs" | base64

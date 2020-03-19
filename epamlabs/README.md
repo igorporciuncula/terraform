@@ -2,15 +2,15 @@
 
 General Information about the project:
 
-[Terraform] 
+# Terraform
 
 - Execute the SETUP
 - Execute the deploy
 
-[Ansible - Dev]
+# Ansible
 
 - Execute ansible-setup
-- Execute server-setup
-- Execute deploy
+- Execute jenkins
+
 
 Note: Important to configure aws credentials.

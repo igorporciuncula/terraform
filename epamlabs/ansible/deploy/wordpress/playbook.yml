@@ -1,7 +1,0 @@
-- hosts: clarolabs-wp
-  become: yes
-
-  roles:
-    - php
-    - mysql
-    - wordpress

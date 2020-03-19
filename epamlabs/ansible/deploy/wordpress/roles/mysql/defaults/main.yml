@@ -1,7 +1,0 @@
----
-wp_mysql_db: wordpress
-wp_mysql_user: wordpress
-wp_mysql_password: Y2xhcm9sYWJzCg==
-
-# Create Passsord
-#Shell># echo "clarolabs" | base64

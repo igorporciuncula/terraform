@@ -1,6 +1,6 @@
 ---
 - name: Install Jenkins
-  hosts: linux
+  hosts: epamlabs
   gather_facts: false
   become: true
   tasks:

@@ -16,10 +16,10 @@ module "vpc" {
 
 }
 
-#terraform {
- #   backend "s3" {
-  #    bucket = "tfepamlabs"
-   #   key = "app-state"
-    #  region = "eu-west-2"
-    #}
-#}
+terraform {
+  backend "s3" {
+    bucket = "tfepamlabs"
+    key    = "app-state"
+    region = "eu-west-2"
+  }
+}
