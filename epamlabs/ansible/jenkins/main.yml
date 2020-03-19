@@ -4,7 +4,7 @@
   gather_facts: false
   become: true
   tasks:
-    - name: Install yum
+    - name: Install wget
       yum:
         name:
           - wget
