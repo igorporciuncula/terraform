@@ -3,7 +3,8 @@
 - Use the bastion host to install ansible and git commands to run deploy of jenkins master or jenkins slave.
 - Obtain name or IP Address of the machines and insert in the hosts file. Ex: 
 
-  [epamlbs] 
+  [epamlbs]
+  
   172.16.21.80
   172.16.21.82
 
