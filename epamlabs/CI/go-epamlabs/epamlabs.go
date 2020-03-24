@@ -6,7 +6,7 @@ import (
 )
 
 func indexHandler(w http.ResponseWriter, r *http.Request) {
-	w.Write([]byte("<h1> Welcome EPAM Labs</h1>"))
+	w.Write([]byte("<h1> Welcome EPAM Labs - Devops</h1>"))
 }
 
 func main() {
