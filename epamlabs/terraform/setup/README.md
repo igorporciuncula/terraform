@@ -23,6 +23,6 @@ Shell># terraform apply
 
 ```
 
-
+# Note: Important to understand the networking environment of the company.
 
  
