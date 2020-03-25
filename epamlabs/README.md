@@ -13,4 +13,4 @@ General Information about the project:
 - Execute jenkins
 
 
-Note: Important to configure aws credentials.
+# Note: Important to configure aws credentials.
