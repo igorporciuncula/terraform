@@ -2,26 +2,26 @@
 
 
 # Configure terraform on local computer
-- shell># chmod +x terraform-setup.sh; bash terraform-setup.sh
-- shell># terraform --version
+```
+shell># chmod +x terraform-setup.sh; bash terraform-setup.sh
+shell># terraform --version
+```
 
+# terraform-backend
+```
+Shell># terraform init 
+Shell># terraform plan
+Shell># terraform apply
+Shell># aws s3 ls
 
-# Terraform Backend
-# s3 bucket
+```
+# vpc-epamlabs
+```
+Shell># terraform init 
+Shell># terraform plan
+Shell># terraform apply
 
-terraform-backend
-- Shell># terraform init 
-- Shell># terraform plan
-- Shell># terraform apply
-- Shell># aws s3 ls
-
-
-# VPC - EPAMLabs
-
-vpc-epamlabs
-- Shell># terraform init 
-- Shell># terraform plan
-- Shell># terraform apply
+```
 
 
 
