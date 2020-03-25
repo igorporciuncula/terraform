@@ -12,7 +12,7 @@
 
  General Instructions:
   - git clone https://github.com/igorporciuncula/terraform.git
-  - Identify the directory jenkins
+  - Identify the directory of Jenkins
   ```
   ansible/
 ├── ansible-setup
