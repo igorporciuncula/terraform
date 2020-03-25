@@ -26,7 +26,7 @@
 - Run the command:
 
 ```
-Shell># ansible-playbook -i hosts main.yml  -e ansible_ssh_user=ec2-user --private-key=/home/ec2-user/epam.pem
+Shell># ansible-playbook -i hosts main.yml -e ansible_ssh_user=ec2-user --private-key=/home/ec2-user/epam.pem
 
 ```
   Note: Create or use the existing KeyPairs.
