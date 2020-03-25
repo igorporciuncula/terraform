@@ -6,6 +6,7 @@ sudo yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.
 sudo yum update -y
 echo "Setup Ansible..."
 sudo yum install -y ansible --enablerepo=epel
+sudo yum install -y golang git
 exit 0
 
 
