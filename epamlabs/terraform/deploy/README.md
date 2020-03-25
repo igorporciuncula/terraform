@@ -6,7 +6,8 @@ Attention before executing the commands below:
  - Identify subnet
  - Create or use the existing KeyPairs
 
- 
-- Shell># terraform init 
-- Shell># terraform plan
-- Shell># terraform apply
+```
+ Shell># terraform init
+ Shell># terraform plan
+ Shell># terraform apply
+ ```
