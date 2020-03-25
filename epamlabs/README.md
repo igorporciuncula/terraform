@@ -1,4 +1,4 @@
-#           EPAM Labs
+# ############## EPAM Labs 
 
 General Information about the project:
 
