@@ -1,4 +1,6 @@
-# Information about the project:
+# CI - EPAM Labs 
+
+Information about the project:
 
  - Upload the Jenkinsfile
  - Create CI pipeline
