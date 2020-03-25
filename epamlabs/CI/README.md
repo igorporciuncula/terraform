@@ -1,6 +1,5 @@
 # CI - EPAM Labs 
 
-Information about the project:
-
- - Upload the Jenkinsfile
- - Create CI pipeline
+ - Create JOB Jenkins using Jenkinsfile
+ - Use BlueOcean
+ 
