@@ -4,7 +4,7 @@
 - Obtain name or IP Address of the machines and insert in the hosts file. Ex:
 
 ```
-  [epamlbs]
+  [epamlabs]
   
   172.16.21.80
   172.16.21.82
