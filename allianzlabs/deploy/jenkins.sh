@@ -9,8 +9,4 @@ oc new-project allianzlabs \
 
 oc project allianzlabs
 
-# Deploy of Jenkins Master
-
-oc new-app jenkins-ephemeral
-
 
