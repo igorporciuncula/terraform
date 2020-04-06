@@ -10,8 +10,6 @@ shell># chmod +x jenkins.sh; bash jenkins.sh
 
 ```
 
-## Web Application 
+## Deploy of Pipelines
 
-- Create JOB Jenkins 
-- Use the Jenkinsfile
-
+Menu Builds > Pipelines > Create Sample Pipeline
