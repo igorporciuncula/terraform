@@ -3,13 +3,14 @@
 Instructions of deploy:
 
 
-## Jenkins
+## Project AllianzLabs
 
 ```
-shell># chmod +x jenkins.sh; bash jenkins.sh
+shell># chmod +x project-allianzlabs.sh; bash project-allianzlabs.sh
 
 ```
 
 ## Deploy of Pipelines
 
-Menu Builds > Pipelines > Create Sample Pipeline
+ - Menu Builds >   Pipelines > Create Sample Pipeline
+ - Start Pipeline
